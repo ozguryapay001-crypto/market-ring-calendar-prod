@@ -1,0 +1,1 @@
+Market Ring production calendar. Schema 1, calendar version 3. Immutable 2026/2027 files use the same verified source data as bundled v2. Staging HTTPS validation and real Android client cache activation passed before this publication. Unknown dates remain unverified. Publish year files before index; rollback by forward version.
